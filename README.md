@@ -1,4 +1,4 @@
-# visual-studio--take-picture-with--directshow
+# visual-studio-community-2015--take-picture-with--directshow
 Aplicação simples para tirar foto e salvar o arquivo de acordo com os parâmetros informados.
 
 # Parâmetros:
