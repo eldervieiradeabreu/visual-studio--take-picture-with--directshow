@@ -1,0 +1,15 @@
+C:\desenv\Outros\Fotos\fotos\fotos\bin\Debug\fotos.exe.config
+C:\desenv\Outros\Fotos\fotos\fotos\obj\Debug\fotos.csprojResolveAssemblyReference.cache
+C:\desenv\Outros\Fotos\fotos\fotos\obj\Debug\fotos.Form1.resources
+C:\desenv\Outros\Fotos\fotos\fotos\obj\Debug\fotos.Properties.Resources.resources
+C:\desenv\Outros\Fotos\fotos\fotos\obj\Debug\fotos.csproj.GenerateResource.Cache
+C:\desenv\Outros\Fotos\fotos\fotos\bin\Debug\fotos.exe
+C:\desenv\Outros\Fotos\fotos\fotos\bin\Debug\fotos.pdb
+C:\desenv\Outros\Fotos\fotos\fotos\bin\Debug\AForge.Video.DirectShow.dll
+C:\desenv\Outros\Fotos\fotos\fotos\bin\Debug\AForge.Video.dll
+C:\desenv\Outros\Fotos\fotos\fotos\bin\Debug\AForge.dll
+C:\desenv\Outros\Fotos\fotos\fotos\bin\Debug\AForge.Video.xml
+C:\desenv\Outros\Fotos\fotos\fotos\bin\Debug\AForge.Video.DirectShow.xml
+C:\desenv\Outros\Fotos\fotos\fotos\bin\Debug\AForge.xml
+C:\desenv\Outros\Fotos\fotos\fotos\obj\Debug\fotos.exe
+C:\desenv\Outros\Fotos\fotos\fotos\obj\Debug\fotos.pdb
