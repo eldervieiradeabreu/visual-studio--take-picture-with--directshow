@@ -6,7 +6,7 @@ Path=c:\\fotosdacamera (Se não informado cria o deretório fotos no mesmo diret
 nome=foto1  (Não passar a extensão, neste caso será gerado o arquivo foto1.png)
 
 #Exemplo de execução:
-C:\Users\elder>c:\fotos\fotos.exe Path=c:\\fotos\\imagem  nome=foto
+C:\Users\elder>c:\fotos\fotos.exe Path=c:\\\fotos\\\imagem  nome=foto
 
 # Observação 
 Se nenum parametro for informado o sistema ira gerar um arquivo com data e hora dentro do diretório fotos da aplicação.
